@@ -10,6 +10,7 @@ If you have some app's icon need to changed like this, hope you can [tell us her
 How to change the icon?
 ==============
 To install icons easily on Yosemite.
+
 1. Open the icns file and click Edit > Copy
 2. Right click on the .app (for example QQ.app) and click "Get Info". (Or click the app and Cmd+I)
 3. Click on the icon at the top and it will be outlined, when it is outlined simply hit cmd + v - should see the icon change.

@@ -31,9 +31,9 @@ Logs
 ### v0.1
 - 阿里旺旺
 - QQ
-- 微信 Mac
+- 微信 Mac / Wechat
 - 虾米音乐
-- 终端
+- 终端 / Terminal
 - Xcode
-- 奇妙清单
+- 奇妙清单 / Wunderlist
 - PS
